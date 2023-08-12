@@ -12,7 +12,7 @@ Searx, Ecosia, Neeva in total.
 Request more search engine support in [#6](https://github.com/Goblincomet/chatGPT-search)
 
 See more in [Releases](https://github.com/Goblincomet/chatGPT-search)
-and [Pre-release build](https://github.com/josStorer/chatGPT-search-engine-extension/actions/workflows/pre-release-build.yml)
+and [Pre-release build](https://github.com/Goblincomet/chatGPT-search/actions/workflows/pre-release-build.yml)
 
 ## Notice
 
@@ -30,18 +30,18 @@ any app store. It isn't related to any extensions of the same name that may exis
 - Safari(macOS) support
 - Custom mount point (e.g. for some unsupported engines)
 - Preview your setting (e.g. theme, mount point) in realtime
-- Katex: [upstream#75](https://github.com/wong2/chat-gpt-google-extension/pull/75)
+- Katex: [upstream#75https://github.com/Goblincomet/chatGPT-search/pull/75)
 - Linkify in ReactMarkdown
-- Interactive mode: [upstream#103](https://github.com/wong2/chat-gpt-google-extension/pull/103), now support generating
+- Interactive mode: [upstream#103](https://github.com/Goblincomet/chatGPT-search/pull/103), now support generating
   separate sessions for each page
 - Fix answer being overwritten due to "network error" or other errors
-- Theme switcher: [#9](https://github.com/josStorer/chatGPT-search-engine-extension/pull/9)
+- Theme switcher: [#9](https://github.com/Goblincomet/chatGPT-search/pull/9)
 - Collapse answers
 - Popup Setting Window (Upstream has switched to a standalone options page)
 - Allow `Insert chatGPT at the top of search results` in Setting Window
 - Switch to webpack
 - Javascript
-- See more in [Releases](https://github.com/josStorer/chatGPT-search-engine-extension/releases)
+- See more in [Releases](https://github.com/Goblincomet/chatGPT-search/releases)
 
 </details>
 
@@ -88,7 +88,7 @@ scenario or related need, please create an issue)
 
 ### Install to Chrome/Edge
 
-1. Download `chromium.zip` from [Releases](https://github.com/josStorer/chatGPT-search-engine-extension/releases).
+1. Download `chromium.zip` from [Releases](https://github.com/Goblincomet/chatGPT-search/releases).
 2. Unzip the file.
 3. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 4. Enable Developer Mode.
@@ -96,7 +96,7 @@ scenario or related need, please create an issue)
 
 ### Install to Firefox
 
-1. Download `firefox.zip` from [Releases](https://github.com/josStorer/chatGPT-search-engine-extension/releases).
+1. Download `firefox.zip` from [Releases](https://github.com/Goblincomet/chatGPT-search/releases).
 2. Unzip the file.
 3. Go to `about:debugging`, click "This Firefox" on the sidebar.
 4. Click "Load Temporary Add-on" button, then select any file in the unzipped folder.
@@ -104,7 +104,7 @@ scenario or related need, please create an issue)
 ### Install to Android
 
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) or other mobile browsers that support installing extensions from local files.
-2. Download `chromium.zip` from [Releases](https://github.com/josStorer/chatGPT-search-engine-extension/releases) on
+2. Download `chromium.zip` from [Releases](https://github.com/Goblincomet/chatGPT-search/releases) on
    your phone.
 3. Go to `Extensions` and enable developer mode.
 4. Click `+ (from .zip/.crx/.user.js)` button and load the downloaded zip file.
@@ -113,7 +113,7 @@ scenario or related need, please create an issue)
 
 ### Install to Safari(macOS)
 
-1. Download `safari.dmg` from [Releases](https://github.com/josStorer/chatGPT-search-engine-extension/releases).
+1. Download `safari.dmg` from [Releases](https://github.com/Goblincomet/chatGPT-search/releases).
 2. Double-click `safari.dmg` to open it and drag the extension’s icon to your Applications folder
 3. Run this extension in your Applications folder
 4. Click `Quit and Open Safari Settings...`
@@ -138,7 +138,7 @@ scenario or related need, please create an issue)
 
 ## My contributions
 
-- [Pull Requests](https://github.com/wong2/chat-gpt-google-extension/pulls?q=is%3Apr+author%3AjosStorer+)
+- [Pull Requests](https://github.com/Goblincomet/chatGPT-search/pulls?q=is%3Apr+author%3AGoblincomet+)
 - ### Other
     - Merge and improve some PRs
     - Support for most search engines
@@ -155,7 +155,7 @@ scenario or related need, please create an issue)
     - Allow insert chatGPT at the top of search results
     - Automated build workflow (with esbuild/webpack)
     - Verify search engine configs automatically
-    - See more in [Releases](https://github.com/josStorer/chatGPT-search-engine-extension/releases)
+    - See more in [Releases](https://github.com/Goblincomet/chatGPT-search/releases)
 
 ## Credit
 
