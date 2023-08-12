@@ -1,7 +1,5 @@
-# This repo has moved to [ChatGPTBox](https://github.com/josStorer/chatGPTBox). Due to the upstream repo being acquired and closed source, and there has been a period of time where issues and PRs in the upstream have gone unhandled. I decided to publish this extension to the store and keep open-source
+# This repo has moved to [ChatGPTBox](hhttps://github.com/Goblincomet/chatGPT-search). Due to the upstream repo being acquired and closed source, and there has been a period of time where issues and PRs in the upstream have gone unhandled. I decided to publish this extension to the store and keep open-source
 
-[![Verify search engine configs](https://github.com/josStorer/chatGPT-search-engine-extension/workflows/verify-configs/badge.svg)](https://github.com/josStorer/chatGPT-search-engine-extension/actions/workflows/verify-configs.yml)
-[![GitHub release](https://img.shields.io/github/release/josStorer/chatGPT-search-engine-extension.svg)](https://github.com/josStorer/chatGPT-search-engine-extension/releases/latest)
 
 [Installation](#installation)
 
@@ -11,15 +9,15 @@ Android.
 Support most search engines, including Google, Bing, Yahoo, DuckDuckGo, StartPage, Baidu, Kagi, Yandex, Naver, Brave,
 Searx, Ecosia, Neeva in total.
 
-Request more search engine support in [#6](https://github.com/josStorer/chatGPT-search-engine-extension/issues/6)
+Request more search engine support in [#6](https://github.com/Goblincomet/chatGPT-search)
 
-See more in [Releases](https://github.com/josStorer/chatGPT-search-engine-extension/releases)
+See more in [Releases](https://github.com/Goblincomet/chatGPT-search)
 and [Pre-release build](https://github.com/josStorer/chatGPT-search-engine-extension/actions/workflows/pre-release-build.yml)
 
 ## Notice
 
 This repository exists only to support some features that are not supported or denied
-in [upstream](https://github.com/wong2/chat-gpt-google-extension), and for ethical reasons, I have not uploaded it to
+in [upstream](https://github.com/Goblincomet/chatGPT-search), and for ethical reasons, I have not uploaded it to
 any app store. It isn't related to any extensions of the same name that may exist in some app store
 
 ## Diff with upstream
